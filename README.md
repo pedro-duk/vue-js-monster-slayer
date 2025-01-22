@@ -7,7 +7,7 @@
 - Usage of Vue directives for conditional content rendering.
 
 ## Gallery
-<iframe src="https://1drv.ms/v/c/a28462d00d7e9fcc/IQQAr8F678C6TYxOfxk3XNM6AX_Pihav0Scbzo8q0j4nMc0" width="1918" height="910" frameborder="0" scrolling="no" allowfullscreen></iframe>
+[monster-slayer.webm](https://github.com/user-attachments/assets/a5057d43-89c0-4b10-9186-0b07e8bf6037)
 
 ## How to Run
 Simply download the files and open `index.html` in any Modern browser.
