@@ -10,4 +10,4 @@
 [monster-slayer.webm](https://github.com/user-attachments/assets/a5057d43-89c0-4b10-9186-0b07e8bf6037)
 
 ## How to Run
-Simply download the files and open `index.html` in any Modern browser.
+Simply download the files and open `index.html` in any modern browser.
